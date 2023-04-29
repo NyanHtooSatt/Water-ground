@@ -1,0 +1,10 @@
+th,
+td {
+    background-color: honeydew;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
